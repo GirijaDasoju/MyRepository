@@ -1,8 +1,4 @@
 This is my first file ! 
-<<<<<<< HEAD
 I am modifying it in new branch 
 second modification
 i have modified to revert the change
-=======
-I am modifying it in new branch
->>>>>>> parent of 483624a (second commit)
