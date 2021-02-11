@@ -1,3 +1,7 @@
-This is my first file ! 
-I am modifying it in new branch 
-second modification
+public class Hello {
+public static void main (String args[] ){
+
+System.out.println("Hello World");
+}
+}
+
